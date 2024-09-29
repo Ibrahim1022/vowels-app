@@ -22,4 +22,4 @@ document.addEventListener('DOMContentLoaded', function() {
         vowelCountDisplay.textContent = vowelCount;
         console.log('Total Vowels:', vowelCount); // Debugging: check in the browser console
     });
-});
+})
